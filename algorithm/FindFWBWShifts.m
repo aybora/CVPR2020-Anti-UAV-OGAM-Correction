@@ -1,4 +1,6 @@
 
+# author: kutalmisince
+
 function fwbwShifts = FindFWBWShifts(dataDir, annotation, fileName, range, debugMode)
 
     if nargin < 5, debugMode = 0; end
