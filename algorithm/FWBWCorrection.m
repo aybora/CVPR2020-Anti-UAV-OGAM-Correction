@@ -1,4 +1,6 @@
 
+# author: kutalmisince
+
 function correctedAnnotation = FWBWCorrection(dataDir, annotation, fwbwShifts, fileName, debugMode)
     
     if nargin < 5
