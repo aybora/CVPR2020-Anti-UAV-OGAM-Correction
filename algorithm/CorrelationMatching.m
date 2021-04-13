@@ -1,4 +1,5 @@
 
+# author: kutalmisince
 
 function [estShift, score, scoreInit, LT, satAlarm] = CorrelationMatching(template, templateCenter, I, estCenter, range)
     
